@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635431666 source:d:\codeblocks source codes\arithmeticcalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
